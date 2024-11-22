@@ -1,8 +1,9 @@
 # 👀 About Me
 
-I’m a second year master student at [Robotics Learining and Chips lab(RLC-Lab)](https://github.com/RLC-Lab) of [Research Center for Intelligent
-Computing Systems(CICS)](https://ict.cas.cn/jssgk/zzjg/kyxt/znjsj/js/),  [The Institute of Computing Technology, Chinese Academy of Sciences (ICT)](http://www.ict.ac.cn/).
+I’m a second year master student advised by [Prof. Li](https://ib.cas.cn/sourcedb/cn/expert/202312/t20231213_6912346.html) of [School of Advanced Interdisciplinary Studies(SAIS)](https://sais.ucas.ac.cn/index.php/zh/) and [The Institute of Botany, Chinese Academy of Sciences (IBCAS)](https://www.ibcas.ac.cn/).
 
-Prior to ICT, I received the B.S. from [HeFei University of Technology](https://www.hfut.edu.cn/) (HFUT) in 2023.
+Prior to IBCAS, I received the B.S. from [Huazhong Agricultural University (HZAU)](https://www.hzau.edu.cn/) (HFUT) in 2023 advised by [Dr. He](https://faculty.hzau.edu.cn/heyanhong/zh_CN/yjgk/107227/list/index.htm)
 
-My research interest includes Embodied AI methods & computing pipeline, Robust AI for EDA methods and Computer Architecture.
+My research interest includes protein LLMs, including buiding efficent and robust LLM for protein generate, foracsting and analysis. Besides, I' m trying to explain photosynthesis with machine learing and data mining methods.
+
+I enjoy learning and reaserching with interesting things in my life.❤️
