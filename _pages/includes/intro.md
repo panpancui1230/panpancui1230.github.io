@@ -6,4 +6,4 @@ Prior to IBCAS, I received the B.S. from [Huazhong Agricultural University (HZ
 
 My research interest includes protein LLMs, including buiding efficent and robust LLM for protein generate, foracsting and analysis. Besides, I' m trying to explain photosynthesis with machine learing and data mining methods.
 
-I enjoy learning and reaserching with interesting things in my life.❤️
+I enjoy learning and reaserching with interesting things in my life with my [liitle golden fur](sun123-cmd.github.io).❤️
