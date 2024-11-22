@@ -4,7 +4,8 @@
 - Sep 2019 - June 2023: Bachelor of HZAU
 
 # 💬 Invited Talks
-- *2023.04*, Peer Mentor for the *Youth Leadership* program at HFUT
+- To be continued…
+
 
 # 💻 Blogs
 
