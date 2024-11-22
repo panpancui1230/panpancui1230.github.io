@@ -1,4 +1,4 @@
-# 👀 About Me
+# 🫧 About Me
 
 I’m a second year master student advised by [Prof. Li](https://ib.cas.cn/sourcedb/cn/expert/202312/t20231213_6912346.html) of [School of Advanced Interdisciplinary Studies(SAIS)](https://sais.ucas.ac.cn/index.php/zh/) and [The Institute of Botany, Chinese Academy of Sciences (IBCAS)](https://www.ibcas.ac.cn/).
 
