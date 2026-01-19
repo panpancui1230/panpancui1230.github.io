@@ -1,6 +1,6 @@
 # 🎓 Educations
 - March 2025 - future: Phd of SAIS, UCAS & IBCAS
-- Sep 2023 - now: Master of IBCAS
+- Sep 2023 - March 2025: Master of IBCAS
 - Sep 2019 - June 2023: Bachelor of HZAU
 
 # 💬 Invited Talks
