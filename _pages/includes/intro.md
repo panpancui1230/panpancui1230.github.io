@@ -1,6 +1,6 @@
 # 🫧 About Me
 
-I’m a 1st year Phd student advised by [Prof. Li](https://ib.cas.cn/sourcedb/cn/expert/202312/t20231213_6912346.html) of [School of Advanced Interdisciplinary Studies(SAIS)](https://sais.ucas.ac.cn/index.php/zh/) and [The Institute of Botany, Chinese Academy of Sciences (IBCAS)](https://www.ibcas.ac.cn/).
+I’m a 1st year Phd student of [School of Advanced Interdisciplinary Studies(SAIS)](https://sais.ucas.ac.cn/index.php/zh/) and [The Institute of Botany, Chinese Academy of Sciences (IBCAS)](https://www.ibcas.ac.cn/).
 
 Prior to IBCAS, I received the B.S. from [Huazhong Agricultural University (HZAU)](https://www.hzau.edu.cn/) in 2023 advised by [Dr. He](https://faculty.hzau.edu.cn/heyanhong/zh_CN/yjgk/107227/list/index.htm)
 
