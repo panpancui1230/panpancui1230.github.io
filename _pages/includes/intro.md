@@ -9,3 +9,6 @@ My research interest includes protein LLMs (PLMs), including buiding efficent an
 I enjoy learning and reaserching with interesting things in my life with my [liitle golden fur](https://sun123-cmd.github.io/)❤️.
 
 You can find my CV [here](/files/CV.pdf) 👀
+
+
+Here you can get latest arxiv papers about AI for Science, esipcally for protein 👉[AI4S Papers](panpancui1230.github.io/Arxiv-tracker)
